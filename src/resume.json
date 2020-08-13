@@ -1,0 +1,145 @@
+{
+  "basics": {
+    "name": "Ankit Mishra",
+    "label": "Software Developer",
+    "email": "ankit.mishra@outlook.in",
+    "phone": "+47 93929574",
+    "summary": "A programmer with 7+ years experience developing applications from frontend to backend, working primarily with frontend technologies. I enjoy building interesting products, with emphasis on good engineering principles and clean code.",
+    "points": [
+      "Proficient in creating responsive UI/UX design, aligned with latest standards and accessibility at its core",
+      "Expertise in creating/designing scalable & secure RESTful web services from scratch",
+      "Strong Object Oriented skills with knowledge of design patterns and data structures",
+      "Open source contributions in Chromium, Solidarity & webpack.",
+      "Also an active contributor at StackOverflow.com, among top 30% in JS"
+    ],
+    "location": {
+      "city": "Oslo",
+      "countryCode": "NO"
+    },
+    "profiles": [
+      {
+        "network": "email",
+        "username": "ankit.mishra@outlook.in",
+        "url": "mailto:ankit.mishra@outlook.in"
+      },
+      {
+        "network": "phone",
+        "username": "+47 93929574",
+        "url": "tel:+4793929574"
+      },
+      {
+        "network": "Github",
+        "url": "https://github.com/mishra-ankit"
+      },
+      {
+        "network": "Stackoverflow",
+        "url": "https://stackoverflow.com/users/1150183/ankit"
+      },
+      {
+        "network": "Linkedin",
+        "url": "https://www.linkedin.com/in/amishra13"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Confirmit AS, Oslo",
+      "position": "Software Engineer (R&D)",
+      "website": "https://confirmit.com",
+      "startDate": "2018-08-01",
+      "summary": "React, Typescript, Javascript, Express",
+      "highlights": [
+        "Building React component library to ensure uniform UX across products",
+        "Increased system capacity by 3.5x on the same hardware, by rectifying critical JavaScript memory leaks",
+        "Closely working with the UX team, involved in design decision to convert existing application to WYSIWYG interface"
+      ]
+    },
+    {
+      "company": "DNB, Oslo",
+      "position": "Software Engineer",
+      "website": "https://www.dnb.no/en",
+      "startDate": "2017-06-01",
+      "endDate": "2018-07-01",
+      "summary": "Angular, Javascript, Java",
+      "highlights": [
+        "Added multi user real-time collaboration using web sockets, with in-built conflict resolution",
+        "Added static analysis measures in the build pipeline to prevent known vulnerabilities getting into source code"
+      ]
+    },
+    {
+      "company": "TATA Consultation Services, India",
+      "position": "Software Engineer",
+      "website": "https://www.tcs.com",
+      "startDate": "2015-11-01",
+      "endDate": "2018-07-01",
+      "summary": "Javascript, Angular, Java",
+      "highlights": [
+        "Created reusable AngularJS components, with responsiveness and accessibility inbuilt",
+        "Designed and architectured large scale single page application with i18n support which served ~ 50k req/sec",
+        "Mentored multiple colleagues to gain proficiency in NodeJS and Grunt"
+      ]
+    },
+    {
+      "company": "Computer Science Corporation, India",
+      "position": "Associate Application Developer",
+      "website": "https://www.dnb.no/en",
+      "endDate": "2015-10-01",
+      "startDate": "2013-09-01",
+      "summary": "C#, ASP, jQuery",
+      "highlights": [
+        "Improved web app performance by 12% by optimizing critical rendering path and introducing caching layer",
+        "Added multi-browser support in a legacy application, also created utility for reducing repetitive efforts",
+        "Conducted multiple organization level training on JavaScript, jQuery and Bootstrap"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Rajiv Gandhi Technological University",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Engineering",
+      "startDate": "2009-10-01",
+      "endDate": "2013-06-01"
+    },
+    {
+      "institution": "Calarts (Coursera)",
+      "area": "Visual Elements of User Interface Design",
+      "studyType": "Online"
+    },
+    {
+      "institution": "Georgia Tech (Coursera)",
+      "area": "Introduction to User Experience Design",
+      "studyType": "Online"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "React",
+        "Javascript",
+        "Typescript",
+        "UX",
+        "Web Security",
+        "NodeJS",
+        "NoSQL",
+        "Express",
+        "Python",
+        "Azure",
+        "Kubernetes",
+        "Docker"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Mockie",
+      "website": "https://mishra-ankit.github.io/mockie/",
+      "summary": "Web app to create Mock HTTP Responses - quickly and easily, support for various HTTP Status and MIME types"
+    },
+    {
+      "name": "JSONEditor-standalone",
+      "website": "https://www.npmjs.com/package/jsoneditor-standalone",
+      "summary": "Quick and easy JSON editor, available as standalone npm cli utility. Built for privacy first"
+    }
+  ]
+}
