@@ -132,12 +132,12 @@
   ],
   "projects": [
     {
-      "name": "Mockie",
-      "website": "https://mishra-ankit.github.io/mockie/",
-      "summary": "Web app to create Mock HTTP Responses - quickly and easily, support for various HTTP Status and MIME types"
+      "name": "ddg-bulk-image-downloader (7k downloads/week)",
+      "website": "https://www.npmjs.com/package/ddg-bulk-image-downloader",
+      "summary": "CLI tool for automating downloading images from Duck Duck Go search results in bulk"
     },
     {
-      "name": "JSONEditor-standalone",
+      "name": "JSONEditor-standalone (13k downloads/week)",
       "website": "https://www.npmjs.com/package/jsoneditor-standalone",
       "summary": "Quick and easy JSON editor, available as standalone npm cli utility. Built for privacy first"
     }

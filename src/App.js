@@ -16,7 +16,6 @@ function App() {
                         {basics.profiles.map(profile => <Profile profile={profile}/>)}
                     </div>
                 </div>
-
             </div>
             <section>
                 <h2 className="content-subhead">Summary</h2>
