@@ -43,11 +43,24 @@
   },
   "work": [
     {
+      "company": "Kongsberg Digital, Oslo",
+      "position": "Full Stack Developer",
+      "website": "https://www.kongsberg.com/digital/#",
+      "startDate": "2021-06-01",
+      "summary": "Angular, Typescript, NodeJS, Azure",
+      "highlights": [
+        "Reported and fixed 3 major XSS vulnerability in web application",
+        "Building reusable components with Angular, completely config driven",
+        "Performed code refactoring to reduce the size by 30% of a core UI component"
+      ]
+    },
+    {
       "company": "Confirmit AS, Oslo",
       "position": "Software Engineer (R&D)",
       "website": "https://confirmit.com",
       "startDate": "2018-08-01",
-      "summary": "React, Typescript, Javascript, Express",
+      "endDate": "2021-05-30",
+      "summary": "React, Typescript, Express",
       "highlights": [
         "Building React component library to ensure uniform UX across products",
         "Increased system capacity by 3.5x on the same hardware, by rectifying critical JavaScript memory leaks",
@@ -119,6 +132,7 @@
         "Javascript",
         "Typescript",
         "UX",
+        "Angular",
         "Web Security",
         "NodeJS",
         "NoSQL",
